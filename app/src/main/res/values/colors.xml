@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Blue/Yellow high-contrast palette -->
+    <color name="railway_blue">#0A2463</color>
+    <color name="railway_blue_light">#1E3A8A</color>
+    <color name="railway_yellow">#FFD600</color>
+    <color name="railway_yellow_dark">#F9A825</color>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#F5F5F5</color>
+    <color name="text_dark">#0A0A0A</color>
+    <color name="text_medium">#333333</color>
+
+    <!-- Coach colors -->
+    <color name="coach_engine">#B71C1C</color>
+    <color name="coach_general">#1B5E20</color>
+    <color name="coach_ladies">#880E4F</color>
+    <color name="coach_sleeper">#0D47A1</color>
+    <color name="coach_ac">#01579B</color>
+    <color name="coach_guard">#4E342E</color>
+
+    <!-- Status colors -->
+    <color name="on_time_green">#2E7D32</color>
+    <color name="delayed_red">#C62828</color>
+    <color name="arriving_orange">#E65100</color>
+
+    <!-- Surface colors -->
+    <color name="card_bg">#FFFFFF</color>
+    <color name="screen_bg">#EEF2FF</color>
+    <color name="divider">#CFD8DC</color>
+</resources>

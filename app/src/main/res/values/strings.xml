@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Platform</string>
+    <string name="app_tagline">ನಿಮ್ಮ ರೈಲು ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="select_station">ನಿಲ್ದಾಣ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="select_station_hint">ನಿಲ್ದಾಣ ಹೆಸರು ಟೈಪ್ ಮಾಡಿ</string>
+    <string name="next_trains">ಮುಂದಿನ ರೈಲುಗಳು</string>
+    <string name="platform">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</string>
+    <string name="platform_number">ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸಂಖ್ಯೆ</string>
+    <string name="coach_layout">ಡಬ್ಬಿ ವಿನ್ಯಾಸ</string>
+    <string name="help_me">ಸಹಾಯ ಮಾಡಿ</string>
+    <string name="speak_announcement">ಘೋಷಣೆ ಕೇಳಿ</string>
+    <string name="general_coach">ಸಾಮಾನ್ಯ</string>
+    <string name="ladies_coach">ಮಹಿಳೆಯರ</string>
+    <string name="engine">ಇಂಜಿನ್</string>
+    <string name="sleeper">ಸ್ಲೀಪರ್</string>
+    <string name="ac_coach">ಎಸಿ</string>
+    <string name="arrives_in">ಬರಲಿದೆ</string>
+    <string name="minutes">ನಿಮಿಷಗಳಲ್ಲಿ</string>
+    <string name="stand_here">ಇಲ್ಲಿ ನಿಲ್ಲಿ</string>
+    <string name="train_details">ರೈಲು ವಿವರಗಳು</string>
+    <string name="view_details">ವಿವರ ನೋಡಿ</string>
+    <string name="go_back">ಹಿಂದೆ</string>
+    <string name="app_description">ಸಣ್ಣ ನಿಲ್ದಾಣಗಳಿಗಾಗಿ ರೈಲು ಮಾಹಿತಿ</string>
+</resources>

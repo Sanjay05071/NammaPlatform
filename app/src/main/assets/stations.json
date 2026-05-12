@@ -1,0 +1,220 @@
+{
+  "stations": [
+    {
+      "id": "ASK",
+      "name_kannada": "ಅರಸೀಕೆರೆ",
+      "name_english": "Arsikere",
+      "code": "ASK",
+      "trains": [
+        {
+          "number": "16536",
+          "name_kannada": "ಗೋಲ್ಗುಂಬಜ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "Golgumbaz Express",
+          "destination_kannada": "ಮೈಸೂರು",
+          "destination_english": "Mysuru",
+          "arrival_time": "06:45",
+          "platform": 1,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "SLEEPER", "label": "S3", "label_kn": "S3"},
+            {"type": "AC", "label": "A1", "label_kn": "A1"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹದಿನಾರು ಐನೂರ ಮೂವತ್ತಾರು, ಗೋಲ್ಗುಂಬಜ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಮೈಸೂರಿಗೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "17302",
+          "name_kannada": "ಮೈಸೂರು ಹುಬ್ಬಳ್ಳಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "Mysuru Hubballi Express",
+          "destination_kannada": "ಹುಬ್ಬಳ್ಳಿ",
+          "destination_english": "Hubballi",
+          "arrival_time": "09:20",
+          "platform": 2,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "SLEEPER", "label": "S3", "label_kn": "S3"},
+            {"type": "SLEEPER", "label": "S4", "label_kn": "S4"},
+            {"type": "AC", "label": "A1", "label_kn": "A1"},
+            {"type": "AC", "label": "A2", "label_kn": "A2"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹದಿನೇಳು ಮುನ್ನೂರ ಎರಡು, ಮೈಸೂರು ಹುಬ್ಬಳ್ಳಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಹುಬ್ಬಳ್ಳಿಗೆ, ಎರಡನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "56921",
+          "name_kannada": "ಅರಸೀಕೆರೆ ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "name_english": "Arsikere Mysuru Passenger",
+          "destination_kannada": "ಮೈಸೂರು",
+          "destination_english": "Mysuru",
+          "arrival_time": "11:55",
+          "platform": 1,
+          "status": "delayed",
+          "status_kannada": "ತಡವಾಗಿ (20 ನಿಮಿಷ)",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಐವತ್ತಾರು ಒಂಬೈನೂರ ಇಪ್ಪತ್ತೊಂದು, ಅರಸೀಕೆರೆ ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್, ಮೈಸೂರಿಗೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಇಪ್ಪತ್ತು ನಿಮಿಷ ತಡವಾಗಿ ಆಗಮಿಸಲಿದೆ."
+        }
+      ]
+    },
+    {
+      "id": "HAS",
+      "name_kannada": "ಹಾಸನ",
+      "name_english": "Hassan",
+      "code": "HAS",
+      "trains": [
+        {
+          "number": "12649",
+          "name_kannada": "ಸಮರ್ಸ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "Samarsata Express",
+          "destination_kannada": "ಬೆಂಗಳೂರು",
+          "destination_english": "Bengaluru",
+          "arrival_time": "07:10",
+          "platform": 2,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "AC", "label": "A1", "label_kn": "A1"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹನ್ನೆರಡು ಆರುನೂರ ನಲ್ವತ್ತೊಂಬತ್ತು, ಸಮರ್ಸ ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಬೆಂಗಳೂರಿಗೆ, ಎರಡನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "56273",
+          "name_kannada": "ಮಂಗಳೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "name_english": "Mangaluru Passenger",
+          "destination_kannada": "ಮಂಗಳೂರು",
+          "destination_english": "Mangaluru",
+          "arrival_time": "10:30",
+          "platform": 1,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಐವತ್ತಾರು ಇನ್ನೂರ ಎಪ್ಪತ್ತುಮೂರು, ಮಂಗಳೂರು ಪ್ಯಾಸೆಂಜರ್, ಮಂಗಳೂರಿಗೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "16517",
+          "name_kannada": "ಕೆಎಸ್ಆರ್ ಬೆಂಗಳೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "KSR Bengaluru Express",
+          "destination_kannada": "ಬೆಂಗಳೂರು",
+          "destination_english": "Bengaluru",
+          "arrival_time": "14:15",
+          "platform": 2,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "SLEEPER", "label": "S3", "label_kn": "S3"},
+            {"type": "AC", "label": "A1", "label_kn": "A1"},
+            {"type": "AC", "label": "A2", "label_kn": "A2"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹದಿನಾರು ಐನೂರ ಹದಿನೇಳು, ಕೆಎಸ್ಆರ್ ಬೆಂಗಳೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಬೆಂಗಳೂರಿಗೆ, ಎರಡನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        }
+      ]
+    },
+    {
+      "id": "SKLR",
+      "name_kannada": "ಸಕಲೇಶಪುರ",
+      "name_english": "Sakleshpur",
+      "code": "SKLR",
+      "trains": [
+        {
+          "number": "56275",
+          "name_kannada": "ಸಕಲೇಶಪುರ ಪ್ಯಾಸೆಂಜರ್",
+          "name_english": "Sakleshpur Passenger",
+          "destination_kannada": "ಮಂಗಳೂರು",
+          "destination_english": "Mangaluru",
+          "arrival_time": "08:00",
+          "platform": 1,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಐವತ್ತಾರು ಇನ್ನೂರ ಎಪ್ಪತ್ತೈದು, ಸಕಲೇಶಪುರ ಪ್ಯಾಸೆಂಜರ್, ಮಂಗಳೂರಿಗೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "16515",
+          "name_kannada": "ಕರ್ನಾಟಕ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "Karnataka Express",
+          "destination_kannada": "ಬೆಂಗಳೂರು",
+          "destination_english": "Bengaluru",
+          "arrival_time": "11:20",
+          "platform": 1,
+          "status": "delayed",
+          "status_kannada": "ತಡವಾಗಿ (15 ನಿಮಿಷ)",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "AC", "label": "A1", "label_kn": "A1"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹದಿನಾರು ಐನೂರ ಹದಿನೈದು, ಕರ್ನಾಟಕ ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಬೆಂಗಳೂರಿಗೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಹದಿನೈದು ನಿಮಿಷ ತಡವಾಗಿ ಆಗಮಿಸಲಿದೆ."
+        },
+        {
+          "number": "17603",
+          "name_kannada": "ಕಚೇಗುಡ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "name_english": "Kacheguda Express",
+          "destination_kannada": "ಕಚೇಗುಡ",
+          "destination_english": "Kacheguda",
+          "arrival_time": "16:45",
+          "platform": 1,
+          "status": "on_time",
+          "status_kannada": "ಸಮಯಕ್ಕೆ",
+          "coaches": [
+            {"type": "ENGINE", "label": "ENG", "label_kn": "ಇಂಜಿನ್"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "GENERAL", "label": "GEN", "label_kn": "ಸಾಮಾನ್ಯ"},
+            {"type": "LADIES", "label": "L", "label_kn": "ಮಹಿಳೆ"},
+            {"type": "SLEEPER", "label": "S1", "label_kn": "S1"},
+            {"type": "SLEEPER", "label": "S2", "label_kn": "S2"},
+            {"type": "GUARD", "label": "GRD", "label_kn": "ಗಾರ್ಡ್"}
+          ],
+          "announcement_kannada": "ಗಮನಿಸಿ. ರೈಲು ಸಂಖ್ಯೆ ಹದಿನೇಳು ಆರುನೂರ ಮೂರು, ಕಚೇಗುಡ ಎಕ್ಸ್‌ಪ್ರೆಸ್, ಕಚೇಗುಡಕ್ಕೆ, ಒಂದನೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಆಗಮಿಸಲಿದೆ."
+        }
+      ]
+    }
+  ]
+}
